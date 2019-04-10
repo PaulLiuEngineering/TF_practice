@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/paulliu/Desktop/SIG-AI/tensorflow/cnn_practice/man_and_woman/menvswomen100-20-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/Users/paulliu/Desktop/SIG-AI/tensorflow/cnn_practice/man_and_woman/menvswomen100-20-0.001-2conv-basic.model"

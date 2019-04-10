@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/paulliu/Desktop/SIG-AI/tensorflow/cnn_practice/cat_and_dog/dogsvscats-epoch13-1-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/Users/paulliu/Desktop/SIG-AI/tensorflow/cnn_practice/cat_and_dog/dogsvscats-epoch13-1-0.001-2conv-basic.model"
